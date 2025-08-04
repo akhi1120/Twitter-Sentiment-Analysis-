@@ -48,14 +48,6 @@ This project uses machine learning to analyze the sentiment of tweets. Tweets ar
 
 ---
 
-## How to Use
-
-1. Open `twitter sentiment_analysis.ipynb` in Jupyter or Colab.
-2. Run cells in order to preprocess data, train models, and see results.
-3. Modify the notebook to test on your own tweet data.
-
----
-
 ## Final Uses
 
 - **Brand Monitoring:** Track sentiment toward products or companies.
